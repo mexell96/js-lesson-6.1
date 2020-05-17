@@ -1,0 +1,19 @@
+body {
+    width: 100vw;
+    height: 100vh;
+}
+.beader {
+    font-weight: bold;
+}
+ul {
+    background-color: rgb(183, 0, 255);
+    width: 300px;
+    height: 60px;
+    border: 2px solid black;
+}
+li {
+    background-color: rgb(0, 255, 170);
+    width: 100px;
+    height: 20px;
+    border: 1px solid rgb(235, 8, 8);
+}
